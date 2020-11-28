@@ -1,29 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Abby Leung
+permalink: /
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I'm in my final year studying computer science student at McGill University. Currently, I am working modelling COVID-19 disease spread on contact network. I am interested in network science, game theory, and machine learning, especially theoretical aspect of networks and applications to social science.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+## Publications
+Abby Leung, Xiaoye Ding, Shenyang Huang, and Reihaneh Rabbany. Contact graph epidemic modelling of covid-19 for transmission and interventionstrategies. *arXiv preprint arXiv:2010.03081*, 2020. [preprint](https://arxiv.org/pdf/2010.03081.pdf)
 
-## Features
+Xiaoye Ding, Shenyang Huang, Abby Leung, and Reihaneh Rabbany. Incorporating dynamic flight network in seir to model mobility between popula-tions, 2020. [preprint](https://arxiv.org/pdf/2010.01408.pdf)
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Reports
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Contact me
+Email: oi.k.leung@mail.mcgill.ca
