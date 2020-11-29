@@ -13,5 +13,3 @@ Xiaoye Ding, Shenyang Huang, Abby Leung, and Reihaneh Rabbany. Incorporating dyn
 
 ## Reports
 
-## Contact me
-Email: oi.k.leung@mail.mcgill.ca
